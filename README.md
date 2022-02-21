@@ -1,2 +1,2 @@
 # TerrorismInIndia
-List of terrorism incidents in India post 2000
+List of all terrorist attacks that happened in India post 2000
